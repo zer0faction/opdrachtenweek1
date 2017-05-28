@@ -1,0 +1,14 @@
+{
+  "name": "opdrachtenweek1",
+  "version": "1.0.0",
+  "description": "Random User Generator API",
+  "main": ".server.js",
+  "scripts": {
+  
+"start": "node ./server.js"  },
+  "author": "Erin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}

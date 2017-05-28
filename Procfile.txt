@@ -1,1 +1,1 @@
-web: node ./opdrachten week 1/server.js
+web: node ./server.js
