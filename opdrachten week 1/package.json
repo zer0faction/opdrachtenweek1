@@ -4,8 +4,8 @@
   "description": "Random User Generator API",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  
+"start": "node ./opdrachtenweek1/server.js"  },
   "author": "Erin",
   "license": "ISC",
   "dependencies": {
