@@ -2,7 +2,7 @@
   "name": "opdrachtenweek1",
   "version": "1.0.0",
   "description": "Random User Generator API",
-  "main": "server.js",
+  "main": "./opdrachten week 1/server.js",
   "scripts": {
   
 "start": "node ./opdrachten week 1/server.js"  },
