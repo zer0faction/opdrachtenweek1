@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
   
-"start": "node ./opdrachtenweek1/server.js"  },
+"start": "node ./opdrachten week 1/server.js"  },
   "author": "Erin",
   "license": "ISC",
   "dependencies": {
